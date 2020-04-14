@@ -1,6 +1,6 @@
 
 .main-content {
-    margin-top: 60px;
+    margin-top: 50px;
 }
 .end {
     text-align: center;
@@ -26,14 +26,20 @@
     text-align: justify;
     line-height: 34px;
     font-size: 21px;
+    margin-bottom: 26px;
 }
-.col-md-4{
-    padding-left: 85px;
-}
+
+.con{
+    padding-left: 50px;
+    margin-bottom: 26px;
+
+}    
+
 .contacts{
     line-height: 40px;
     font-family: serif;
     font-size: 22px;
+    padding-left: 85px;
 }
 /** blog **/
 .blog{
@@ -57,4 +63,7 @@
 .articles a {
     background-color: thistle;
 }
-/** blogPost **/
+/** article content **/
+
+
+
